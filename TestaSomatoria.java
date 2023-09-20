@@ -1,4 +1,4 @@
-public class TestaSomatoria {
+/*public class TestaSomatoria {
 
     public static void main(String[] args) {
         int contador = 0;
@@ -13,4 +13,4 @@ public class TestaSomatoria {
             }
              System.out.println(total);
     }
-}
+}*/
